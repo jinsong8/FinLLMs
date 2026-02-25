@@ -61,6 +61,7 @@ Selected papers associated with the above figure.
 - **FinMA :** PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance. *NeurIPS datasets and benchmarks track 2023*. [Paper](https://arxiv.org/abs/2306.05443) | [Github](https://github.com/chancefocus/PIXIU) | [Leaderboard](https://huggingface.co/spaces/ChanceFocus/FLARE)
 - **InvestLM :** InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning. 2023. [Paper](https://arxiv.org/abs/2309.13064) | [Github](https://github.com/AbaciNLP/InvestLM)
 - **FinGPT :** FinGPT: Instruction Tuning Benchmark for Open-Source Large Language Models in Financial Datasets. *NeurIPS Workshop 2023*. [Paper](https://arxiv.org/abs/2310.04793) | [Github](https://github.com/AI4Finance-Foundation/FinGPT)| [HuggingFace](https://huggingface.co/FinGPT)
+- **FinRpt :** FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation. *AAAI 2026*. [Paper](https://arxiv.org/abs/2511.07322) | [Github](https://github.com/jinsong8/FinRpt) | [HuggingFace Dataset](https://huggingface.co/datasets/jinsong8/FinRpt)
 
 
 <p align="center"><img src="./img/2_summary.png" alt="summary_FinLMs" style="max-width: 100%;"></p>
